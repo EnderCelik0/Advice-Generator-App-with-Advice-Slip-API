@@ -27,8 +27,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://advicegeneratorxyz.netlify.app/)
+- Solution URL:  (https://www.frontendmentor.io/solutions/advice-generator-using-axios-react-vite-and-vanilla-css-z5-AKUfIwq)
+- Live Site URL: (https://spontaneous-churros-fb1702.netlify.app
+
+)
 
 ## My process
 
@@ -104,6 +106,6 @@ export default useFetch;
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/EnderCelik0)
+- Frontend Mentor - https://www.frontendmentor.io/profile/EnderCelik0
 
 
